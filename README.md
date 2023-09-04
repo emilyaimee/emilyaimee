@@ -3,6 +3,7 @@
 - 🌱 Atualmente estudando banco de dados SQL e linguagem Python
 
 <div>
+  <a href = "https://github.com/emilyaimee"> 
   <img  height = "180em" src = "https://github-readme-stats.vercel.app/api?username=emilyaimee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emilyaimee&layout=compact&langs_count=16&theme=tokyonight"/> 
 </div>
